@@ -1,1 +1,2 @@
-Replace this with a link to your a GitHub or social media profile.
+My github slideshow link is:- (https://github.com/AKHILSNAMBIAR/github-slideshow)
+My linkedin profile link is:- (https://www.linkedin.com/in/akhil-s-nambiar-3332a5214/)
